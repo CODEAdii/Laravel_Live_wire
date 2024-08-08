@@ -10,11 +10,13 @@
     {{-- Old Method --}}
     {{-- @livewire('counter') --}}
    
-    <livewire:header/>
+    {{-- <livewire:header/>
 
     <livewire:contact/>
 
-    <livewire:footer/>
+    <livewire:footer/> --}}
+
+    <livewire:search/>
 
     @livewireScripts
 </body>
